@@ -19,7 +19,8 @@ Coding challenge
   
 # Sample Response 
 
-http://127.0.0.1:8000/meters
+# http://127.0.0.1:8000/meters
+
 [
     {
         "url": "http://127.0.0.1:8000/meters/1",
@@ -36,7 +37,7 @@ http://127.0.0.1:8000/meters
  ]
  
  
- http://127.0.0.1:8000/meters/58
+# http://127.0.0.1:8000/meters/58
  
  [
     {
