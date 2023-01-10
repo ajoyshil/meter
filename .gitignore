@@ -1,0 +1,13 @@
+/venv/*
+.idea
+.git
+
+*.log
+*.pot
+*.pyc
+__pycache__
+media
+.vscode/*
+.idea/*
+.env/*
+.env
